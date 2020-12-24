@@ -51,8 +51,8 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
-| [top](#smileys--emotion) | :smiling_face_with_three_hearts: | `:smiling_face_with_three_hearts:` | :heart_eyes: | `:heart_eyes:` | [top](#table-of-contents) |
-| [top](#smileys--emotion) | :star_struck: | `:star_struck:` | :kissing_heart: | `:kissing_heart:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :smilingjkdkd_face_with_three_hearts: | `:smiling_face_with_three_hearts:` | :heart_eyes: | `:heart_eyes:` | [top](#table-of-contents) |
+| [top](#smileys--emotion) | :star_struidididck: | `:star_struck:` | :kissing_heart: | `:kissing_heart:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :kissing: | `:kissing:` | :relaxed: | `:relaxed:` | [top](#table-of-contents) |
 | [top](#smileys--emotion) | :kissing_closed_eyes: | `:kissing_closed_eyes:` | :kissing_smiling_eyes: | `:kissing_smiling_eyes:` | [top](#table-of-contents) |
 
